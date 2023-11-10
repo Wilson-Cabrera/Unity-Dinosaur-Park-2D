@@ -21,7 +21,7 @@
  - [Victoria](#Victoria)
  - [Derrota](#Derrota)
  - [Fin](#Fin)
- - [¿Por qué es divertido este juego?](#¿Por-qué-es-divertido-este-juego?)
+ - [Definiciones de diseño del juego](#Definiciones-de-diseño-del-juego)
  - [Características claves](#Características-claves)
 - [Documento de diseño](#Documento-de-diseño)
  - [Guía de diseño](#Guía-de-diseño)
@@ -89,7 +89,7 @@ Se mostrará el siguiente mensaje “¡Oh no! Has caído en la selva, prepárate
 ## Fin
 “Fin de la expedición en Dinosaur Park".
 
-## ¿Por qué es divertido este juego?
+## Por qué es divertido este juego
 Este juego destaca por su ambientación emocionante en una selva repleta de dinosaurios, ofreciendo una experiencia llena de desafíos que mantendrán a los jugadores completamente inmersos. A medida que avanzas en el juego, la intensidad y la adrenalina aumentan de manera progresiva, manteniendo la emoción en cada momento. Además, la cautivadora banda sonora añade una capa adicional de inmersión, haciendo que la experiencia sea aún más envolvente. ¿Estás preparado para embarcarte en esta emocionante aventura y ayudar a Jame a superar todos los obstáculos? ¡La selva prehistórica te espera!
 
 ## Características claves
