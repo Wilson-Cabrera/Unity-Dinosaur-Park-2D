@@ -1,3 +1,4 @@
+### Dinosaur park
 # :bamboo: Dinosaur-Park-Juego2D :bamboo:
 - Este es un proyecto para la catedra Desarrollo de Aplicaciones Moviles, de la carrera Lic. en Diseño y Produccion Multimedia. (Dictada por Patricio Pedersoli)
 
@@ -63,6 +64,7 @@ Un valiente cazador, ajeno al asombroso secreto que alberga la densa selva, se v
 5. Obstáculos
 6. Bonus de vida
 7. Foley y banda sonora
+
 
 ## Niveles del juego
 **Nivel 1: ”Entrada a lo desconocido**”
