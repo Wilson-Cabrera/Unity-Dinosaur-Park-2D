@@ -1,8 +1,5 @@
-# Unity-Dinosaur-Park-2D
-Videojuego 2D - Proyecto para la carrera Diseño y Producción Multimedia (Unlar)
-
 ### Dinosaur park
-# :tw-1f432: Dinosaur-Park-Juego2D :tw-1f432:
+# :cloud: Dinosaur-Park-Juego2D :cloud:
 - Este es un proyecto para la catedra Desarrollo de Aplicaciones Moviles, de la carrera Lic. en Diseño y Produccion Multimedia. (Dictada por Patricio Pedersoli)
 
 
@@ -15,8 +12,8 @@ Videojuego 2D - Proyecto para la carrera Diseño y Producción Multimedia (Unlar
 
 **CONTENIDO**
 
-- [Especificaciones técnicas](#Especificaciones-técnicas:)
-- [Como se juega:](#Como-se-juega:)
+- [Especificaciones técnicas](#Especificaciones-técnicas)
+- [Como se juega:](#Como-se-juega)
 - [Sinopsis](#Sinopsis)
 - [Elementos del juego](#Elementos-del-juego)
 
@@ -45,7 +42,3 @@ Un valiente cazador, ajeno al asombroso secreto que alberga la densa selva, se v
 5. Obstáculos
 6. Bonus de vida
 7. Foley y banda sonora
-
-
-
-
