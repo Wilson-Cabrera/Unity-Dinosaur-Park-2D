@@ -43,7 +43,7 @@
 
 
 ## Especificaciones técnicas
-![ ]()
+
 - View: Scrolling continuo (Vision lateral)
 - Plataforma: Pc
 - Lenguaje: C#
