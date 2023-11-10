@@ -15,10 +15,10 @@ Videojuego 2D - Proyecto para la carrera Diseño y Producción Multimedia (Unlar
 
 **CONTENIDO**
 
-- [Especificaciones técnicas](#Especificaciones técnicas:)
-- [Como se juega:](#Como se juega:)
+- [Especificaciones técnicas](#Especificaciones-técnicas:)
+- [Como se juega:](#Como-se-juega:)
 - [Sinopsis](#Sinopsis)
-- [Elementos del juego](#tipos-de-fraudes)
+- [Elementos del juego](#Elementos-del-juego)
 
 ## Especificaciones técnicas
 - View: Scrolling continuo (Vision lateral)
@@ -45,3 +45,7 @@ Un valiente cazador, ajeno al asombroso secreto que alberga la densa selva, se v
 5. Obstáculos
 6. Bonus de vida
 7. Foley y banda sonora
+
+
+
+
