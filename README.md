@@ -70,10 +70,10 @@ Un valiente cazador, ajeno al asombroso secreto que alberga la densa selva, se v
 
 
 ## Niveles del juego
-**Nivel 1: Entrada a lo desconocido**
+**Nivel 1: Entrada a lo desconocido**:
 Te encuentras en medio de la selva, sin sospechar la extraordinaria aventura que aguarda. A medida que avanzas, te encuentras con dinosaurios de comportamiento amigable, pero tu intuición te indica que algo mas grande se avecina, tu objetivo de llegar al campamento puede volverse un poco dificultoso.
 
-**Nivel 2: Las bestias Prehistóricas**
+**Nivel 2: Las bestias Prehistóricas**:
 Ahora consiente de la magnitud de lo peligroso, el cazador se aventura mas profundamente en la selva. Este nivel presenta un entorno más complejo. 
 Los dinosaurios ahora son todo un desafío a superar. Se incorporan enemigos mas grandes y astutos. A medida que avanzas en el nivel, la intensidad aumenta.
 Este nivel termina en una victoria triunfal o en la derrota a la majestuosidad y peligro de la selva.
