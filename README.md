@@ -43,6 +43,7 @@
 
 
 ## Especificaciones técnicas
+![ ](https://www.mundodeportivo.com/alfabeta/hero/2023/09/unity-logo-.jpg?wid)
 - View: Scrolling continuo (Vision lateral)
 - Plataforma: Pc
 - Lenguaje: C#
