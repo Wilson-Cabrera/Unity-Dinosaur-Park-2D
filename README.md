@@ -43,7 +43,7 @@
 
 
 ## Especificaciones técnicas
-![ ](https://overfilegamescom.files.wordpress.com/2023/03/5j7xxj7x5jxhcw6qf7hnkjst.png?w=1024)
+![ ](https://www.mundodeportivo.com/alfabeta/hero/2023/09/unity-logo-.jpg?width=768&aspect_ratio=16:9&format=nowebp)
 - View: Scrolling continuo (Vision lateral)
 - Plataforma: Pc
 - Lenguaje: C#
