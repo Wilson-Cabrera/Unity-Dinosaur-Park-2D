@@ -140,19 +140,19 @@ La meta central del juego es llegar al campamento, proporcionando una clara y mo
 
 ## Propiedades del jugador
 
-1 **Nombre del jugador: **James.
+1 **Nombre del jugador**: James.
 
-2 **Propiedades físicas:**Velocidad: James, cuenta con una velocidad ágil para navegar hábilmente por la selva prehistórica, esquivando dinosaurios y superando obstáculos con destreza.
+2 **Propiedades físicas**: Velocidad: James, cuenta con una velocidad ágil para navegar hábilmente por la selva prehistórica, esquivando dinosaurios y superando obstáculos con destreza.
 
-**Salto:**La habilidad de salto de James le permite sortear terrenos accidentados y vencer a sus enemigos prehistóricos con saltos estratégicos y precisos.
+**Salto**: La habilidad de salto de James le permite sortear terrenos accidentados y vencer a sus enemigos prehistóricos con saltos estratégicos y precisos.
 
-3 **Habilidades Especiales:**
-**Disparos con un Arma:** James tiene la capacidad de utilizar armas para enfrentarse a los dinosaurios y superar desafíos.
+3 **Habilidades Especiales**:
+**Disparos con un Arma**: James tiene la capacidad de utilizar armas para enfrentarse a los dinosaurios y superar desafíos.
 
-**Ataque con un Cuchillo:** Además, cuenta con habilidades cuerpo a cuerpo, pudiendo desplegar un cuchillo para enfrentarse a enemigos cercanos con rapidez y eficacia.
+**Ataque con un Cuchillo**: Además, cuenta con habilidades cuerpo a cuerpo, pudiendo desplegar un cuchillo para enfrentarse a enemigos cercanos con rapidez y eficacia.
 
-4 **Personalización:** 
-**Aspecto del personaje:** James se presenta con una vestimenta distintiva: una camisa azul, pantalones grises oscuros, botas y un sombrero. Lleva armas a la izquierda de su pantalón y una navaja en el cinturón, destacando su preparación para la aventura.
+4 **Personalización**: 
+**Aspecto del personaje**: James se presenta con una vestimenta distintiva: una camisa azul, pantalones grises oscuros, botas y un sombrero. Lleva armas a la izquierda de su pantalón y una navaja en el cinturón, destacando su preparación para la aventura.
 
 
 ## User interface UI
