@@ -21,7 +21,7 @@
  - [Victoria](#Victoria)
  - [Derrota](#Derrota)
  - [Fin](#Fin)
- - [Definiciones de diseño del juego](#Definiciones-de-diseño-del-juego)
+ - [Por qué es divertido este juego](#Por-qué-es-divertido-este-juego)
  - [Características claves](#Características-claves)
 - [Documento de diseño](#Documento-de-diseño)
  - [Guía de diseño](#Guía-de-diseño)
