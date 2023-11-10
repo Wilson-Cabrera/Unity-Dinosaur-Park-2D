@@ -35,7 +35,7 @@
  - [Definicion de jugador](#Definicion-de-jugador)
  - [Propiedades del jugador](#Propiedades-del-jugador)
  - [User interface UI](#User-interface-UI)
- - [Enlaces de interes](#Enlaces-de-ineteres)
+ - [Enlaces de interes](#Enlaces-de-interes)
  - [Autores](#Autores)
 
 
