@@ -164,9 +164,9 @@ La interfaz del juego en PC para "Dinosaur Park" será diseñada para brindar un
 
 ## Responsables
 - Análisis General 
-- UX/UI 
-- FrontEnd 
-- Backend
+- UX/UI Cabrera Wilson Antonio
+- FrontEnd Miotto González Lautaro, 
+- Backend Waidatt Samira , Flores Kiru Brian Juan
 
 ## Enlaces de interes
 
