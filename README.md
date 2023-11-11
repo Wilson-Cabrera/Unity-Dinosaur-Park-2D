@@ -131,6 +131,8 @@ El enfoque central del juego es el combate. Los jugadores se sumergen en enfrent
 
 ## Diagrama de flujo del juego
 
+![ ](https://i.postimg.cc/C5Lq3qjZ/diagrama.png)
+
 
 
 ## Definicion de jugador
@@ -163,10 +165,10 @@ La meta central del juego es llegar al campamento, proporcionando una clara y mo
 La interfaz del juego en PC para "Dinosaur Park" será diseñada para brindar una experiencia intuitiva y fluida. La barra de salud de James se plantea de manera prominente en la parte superior de la pantalla, permitiendo a los jugadores monitorear su resistencia mientras exploran la selva prehistórica. Los controles, configurados con la tecla W para avanzar, A y D para moverse a la izquierda y derecha, S para retroceder y la barra espaciadora para saltar, se adaptan de manera eficiente a la jugabilidad en PC. Mensajes impactantes de "Game Over" y "Nivel Completado" aparecerán en momentos clave, proporcionando una retroalimentación clara al jugador. Además, un acceso directo al menú principal para garantizar una navegación fácil entre niveles y opciones del juego. La interfaz será simple y efectiva, centrada en mejorar la experiencia de juego en la plataforma de PC.
 
 ## Responsables
-- Análisis General 
-- UX/UI Cabrera Wilson Antonio
-- FrontEnd Miotto González Lautaro, 
-- Backend Waidatt Samira , Flores Kiru Brian Juan
+- Análisis General: Cabrera Wilson Antonio 
+- UX/UI: Cabrera Wilson Antonio
+- FrontEnd: Miotto González Lautaro, 
+- Backend: Waidatt Samira , Flores Kiru Brian Juan
 
 ## Enlaces de interes
 
