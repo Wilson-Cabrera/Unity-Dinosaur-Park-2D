@@ -131,7 +131,6 @@ El enfoque central del juego es el combate. Los jugadores se sumergen en enfrent
 
 ## Diagrama de flujo del juego
 
-![ ](https://i.postimg.cc/jqMDqFDz/diagrama.png)
 
 
 ## Definicion de jugador
