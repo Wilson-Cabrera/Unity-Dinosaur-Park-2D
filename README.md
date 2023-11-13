@@ -38,7 +38,6 @@
  - [Enlaces de interes](#Enlaces-de-interes)
  - [Autores](#Autores)
 
-
 Nombre del Juego  | Dinosaur Park
 ------------- | -------------
 Genero  | Aventura
