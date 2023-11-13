@@ -170,8 +170,8 @@ La meta central del juego es llegar al campamento, proporcionando una clara y mo
 
 La interfaz del juego en PC para "Dinosaur Park" será diseñada para brindar una experiencia intuitiva y fluida. La barra de salud de James se plantea de manera prominente en la parte superior de la pantalla, permitiendo a los jugadores monitorear su resistencia mientras exploran la selva prehistórica. Los controles, configurados con la tecla W para avanzar, A y D para moverse a la izquierda y derecha, S para retroceder y la barra espaciadora para saltar, se adaptan de manera eficiente a la jugabilidad en PC. Mensajes impactantes de "Game Over" y "Nivel Completado" aparecerán en momentos clave, proporcionando una retroalimentación clara al jugador. Además, un acceso directo al menú principal para garantizar una navegación fácil entre niveles y opciones del juego. La interfaz será simple y efectiva, centrada en mejorar la experiencia de juego en la plataforma de PC.
 
-[![Controles.png](https://i.postimg.cc/1t1SGWvj/Controles.png)](https://postimg.cc/SXdHqGF6)
-<img src="https://i.postimg.cc/1t1SGWvj/Controles.png" alt="Logo de Mi Proyecto" width="200"/>
+
+<img src="https://i.postimg.cc/1t1SGWvj/Controles.png" alt="Logo de Mi Proyecto" width="600"/>
 
 
 
