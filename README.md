@@ -1,5 +1,5 @@
 ### Dinosaur park
-# :sauropod: :t-rex: Dinosaur-Park-Juego2D :t-rex: :sauropod:
+# :palm_tree::t-rex: Dinosaur-Park-Juego2D :t-rex::palm_tree:
 - Este es un proyecto para la catedra Desarrollo de Aplicaciones Moviles, de la carrera Lic. en Diseño y Produccion Multimedia. (Dictada por Patricio Pedersoli)
 
 
