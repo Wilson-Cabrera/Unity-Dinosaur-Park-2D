@@ -9,11 +9,7 @@
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
-Nombre del Juego  | Dinosaur Park
-------------- | -------------
-Genero  | Aventura
-Modalidad (jugadores)  | Un jugador (Single Player)
-**CONTENIDO**
+
 
 - [Especificaciones técnicas](#Especificaciones-técnicas)
 - [Como se juega](#Como-se-juega)
@@ -43,7 +39,10 @@ Modalidad (jugadores)  | Un jugador (Single Player)
  - [Autores](#Autores)
 
 
-
+Nombre del Juego  | Dinosaur Park
+------------- | -------------
+Genero  | Aventura
+Modalidad (jugadores)  | Un jugador (Single Player)
 
 ## Especificaciones técnicas
 
