@@ -169,6 +169,8 @@ La interfaz del juego en PC para "Dinosaur Park" será diseñada para brindar un
 
 
 <img src="https://i.postimg.cc/1t1SGWvj/Controles.png" alt="Logo de Mi Proyecto" width="600"/>
+<img src="https://i.postimg.cc/76SrQwjM/Game.png" alt="Logo de Mi Proyecto" width="600"/>
+
 
 
 
