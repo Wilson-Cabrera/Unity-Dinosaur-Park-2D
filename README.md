@@ -1,6 +1,6 @@
 ### Dinosaur park
 # :palm_tree::t-rex: Dinosaur-Park-Juego2D :t-rex::palm_tree:
-- Este es un proyecto para la catedra Desarrollo de Aplicaciones Moviles, de la carrera Lic. en Diseño y Produccion Multimedia. (Dictada por Patricio Pedersoli)
+- Este es un proyecto para la catedra Desarrollo de Aplicaciones Multimediales, de la carrera Lic. en Diseño y Produccion Multimedia. (Dictada por Patricio Pedersoli)
 
 
 # Game Design Document (GDD)
@@ -179,6 +179,7 @@ La interfaz del juego en PC para "Dinosaur Park" será diseñada para brindar un
 - Backend: Waidatt Samira , Flores Kiru Brian Juan
 
 ## Enlaces de interes
+https://www.figma.com/file/E4DjtZd0DoYqhvSLybuhGL/Game---DinosauserPark?type=design&node-id=0-1&mode=design&t=ETiwBzymgyNSVuRo-0
 
 ## Autores
 - [@Wilson-Cabrera](https://github.com/Wilson-Cabrera)
