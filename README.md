@@ -38,10 +38,15 @@
  - [Enlaces de interes](#Enlaces-de-interes)
  - [Autores](#Autores)
 
-Nombre del Juego  | Dinosaur Park
-------------- | -------------
-Genero  | Aventura
-Modalidad (jugadores)  | Un jugador (Single Player)
+
+------------
+|           |           |           
+|-----------|-----------|
+| Nombre del Juego    | Dinosaur Park    | 
+|  Genero   | Aventura    | 
+| Modalidad (jugadores)  | Un jugador (Single Player)    |
+
+------------
 
 ## Especificaciones técnicas
 
