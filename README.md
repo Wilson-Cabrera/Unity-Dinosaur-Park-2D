@@ -1,5 +1,5 @@
 ### Dinosaur park
-# :bamboo: Dinosaur-Park-Juego2D :bamboo:
+# :sauropod: :t-rex: Dinosaur-Park-Juego2D :t-rex: :sauropod:
 - Este es un proyecto para la catedra Desarrollo de Aplicaciones Moviles, de la carrera Lic. en Diseño y Produccion Multimedia. (Dictada por Patricio Pedersoli)
 
 
@@ -97,10 +97,10 @@ Se mostrará el siguiente mensaje “¡Oh no! Has caído en la selva, prepárate
 Este juego destaca por su ambientación emocionante en una selva repleta de dinosaurios, ofreciendo una experiencia llena de desafíos que mantendrán a los jugadores completamente inmersos. A medida que avanzas en el juego, la intensidad y la adrenalina aumentan de manera progresiva, manteniendo la emoción en cada momento. Además, la cautivadora banda sonora añade una capa adicional de inmersión, haciendo que la experiencia sea aún más envolvente. ¿Estás preparado para embarcarte en esta emocionante aventura y ayudar a Jame a superar todos los obstáculos? ¡La selva prehistórica te espera!
 
 ## Características claves
-- ploración de la selva
-- nosaurios asombrosos
-- safíos
-- bientación visual y sonora
+- Exploración de la selva
+- Dinosaurios asombrosos
+- Desafíos
+- Hambientación visual y sonora
 
 ## Documento de diseño
 
