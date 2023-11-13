@@ -8,9 +8,6 @@
 
 
 
-
-
-
 - [Especificaciones técnicas](#Especificaciones-técnicas)
 - [Como se juega](#Como-se-juega)
  - [Sinopsis](#Sinopsis)
