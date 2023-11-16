@@ -186,12 +186,7 @@ La interfaz del juego en PC para "Dinosaur Park" será diseñada para brindar un
 [https://www.figma.com/file/E4DjtZd0DoYqhvSLybuhGL/Game](https://www.figma.com/file/E4DjtZd0DoYqhvSLybuhGL/Game---DinosauserPark?type=design&node-id=0-1&mode=design&t=ETiwBzymgyNSVuRo-0)
 
 ## Colaboradores
-
-
 - [@ppedersoli](https://github.com/ppedersoli)
-
-
-
 
 ## Autores
 - [@Wilson-Cabrera](https://github.com/Wilson-Cabrera)
