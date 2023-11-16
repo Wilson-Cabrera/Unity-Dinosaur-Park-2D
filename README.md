@@ -185,11 +185,12 @@ La interfaz del juego en PC para "Dinosaur Park" será diseñada para brindar un
 [https://www.figma.com/file/E4DjtZd0DoYqhvSLybuhGL/Game](https://www.figma.com/file/E4DjtZd0DoYqhvSLybuhGL/Game---DinosauserPark?type=design&node-id=0-1&mode=design&t=ETiwBzymgyNSVuRo-0)
 
 ## Colaboradores
-- [@ppedersoli](https://github.com/ppedersoli)
+
 <a href="https://github.com/Wilson-Cabrera/Unity-Dinosaur-Park-2D/graphs/contributors">
   <img src="https://i.postimg.cc/NjhCmYNS/imagen-2023-11-16-092444804.png" height="50"/>
 </a>
 
+- [@ppedersoli](https://github.com/ppedersoli)
 
 
 
