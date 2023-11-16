@@ -33,6 +33,7 @@
  - [User interface UI](#User-interface-UI)
  - [Responsables](#Responsables)
  - [Enlaces de interes](#Enlaces-de-interes)
+ - [Colaboradores](#Colaboradores)
  - [Autores](#Autores)
 
 
