@@ -184,6 +184,11 @@ La interfaz del juego en PC para "Dinosaur Park" será diseñada para brindar un
 ## Enlaces de interes
 [https://www.figma.com/file/E4DjtZd0DoYqhvSLybuhGL/Game](https://www.figma.com/file/E4DjtZd0DoYqhvSLybuhGL/Game---DinosauserPark?type=design&node-id=0-1&mode=design&t=ETiwBzymgyNSVuRo-0)
 
+## Colaboradores
+<a href="https://github.com/Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral" height="50"/>
+</a>
+
 
 
 ## Autores
